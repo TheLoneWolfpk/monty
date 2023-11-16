@@ -3,7 +3,7 @@
 /**
  * _pstr - prints the string starting from the top
  * @head: head
- * @counter: line number
+ * @count: line number
  * Return: void
  */
 void _pstr(stack_t **head, unsigned int count)
